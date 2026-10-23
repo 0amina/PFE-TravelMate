@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Firebase Configuration 
+    <string name="google_app_id">1:949083997388:android:18f6e9feafaa255e126e69</string>
+    <string name="firebase_database_url">https://travelmate-76649.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">949083997388</string>
+    <string name="google_api_key">AIzaSyDdvBNi7PlDnkr9unCu_uuDq8PWHFyUckI</string>
+    <string name="google_storage_bucket">travelmate-76649.appspot.com</string>
+    <string name="project_id">travelmate-76649</string>-->
+</resources>

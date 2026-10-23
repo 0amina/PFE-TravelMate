@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+secrets/
+*.pem
+*.key
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/coverage/
+**/ephemeral/
+**/.plugin_symlinks/
+
+# JavaScript / React generated files
+**/node_modules/
+**/dist/
+**/.vite/
+**/.next/
+**/.turbo/
+
+# IDE and operating system files
+**/.idea/
+**/.vscode/
+**/*.iml
+.DS_Store
+Thumbs.db

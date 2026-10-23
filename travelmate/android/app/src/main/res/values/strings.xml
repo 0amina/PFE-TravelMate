@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelMate</string>
+    <string name="facebook_app_id">437053908954783</string>
+    <string name="fb_login_protocol_scheme">fb437053908954783</string> 
+</resources>
